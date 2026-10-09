@@ -6,7 +6,7 @@ Uma landing page inspirada no universo de **Grand Theft Auto V**, desenvolvida c
 
 ## 📌 Sobre o projeto
 
-Este projeto consiste em uma página de apresentação inspirada em **GTA V**, criada para colocar em prática conhecimentos de **HTML, CSS e JavaScript**.
+Este projeto consiste em uma página de apresentação inspirada em **GTA V **, criada para colocar em prática conhecimentos de **HTML, CSS e JavaScript**.
 
 A proposta é desenvolver uma interface simples, moderna e visualmente inspirada no jogo, explorando conceitos fundamentais do desenvolvimento Front-End.
 
@@ -31,7 +31,7 @@ O principal objetivo deste projeto é **praticar e consolidar conhecimentos de d
 
 ## 🖥️ Projeto
 
-A página apresenta uma representação visual inspirada em **Grand Theft Auto V**, utilizando elementos visuais, seções e interações desenvolvidas exclusivamente para fins de estudo.
+A página apresenta uma representação visual inspirada em ** Grand Theft Auto V **, utilizando elementos visuais, seções e interações desenvolvidas exclusivamente para fins de estudo.
 
 O projeto não possui vínculo oficial com a Rockstar Games ou com a franquia Grand Theft Auto.
 
