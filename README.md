@@ -1,6 +1,6 @@
-# 🎮 GTA VI  - Landing Page
+# 🎮 GTA V  - Landing Page
 
-Uma landing page inspirada no universo de **Grand Theft Auto VI**, desenvolvida como projeto de estudo e prática de desenvolvimento web.
+Uma landing page inspirada no universo de **Grand Theft Auto V**, desenvolvida como projeto de estudo e prática de desenvolvimento web.
 
 > ⚠️ **Projeto não oficial.** Esta página é apenas uma representação visual criada para fins educacionais.
 
