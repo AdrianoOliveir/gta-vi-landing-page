@@ -31,7 +31,7 @@ O principal objetivo deste projeto é **praticar e consolidar conhecimentos de d
 
 ## 🖥️ Projeto
 
-A página apresenta uma representação visual inspirada em **Grand Theft Auto VI**, utilizando elementos visuais, seções e interações desenvolvidas exclusivamente para fins de estudo.
+A página apresenta uma representação visual inspirada em **Grand Theft Auto V**, utilizando elementos visuais, seções e interações desenvolvidas exclusivamente para fins de estudo.
 
 O projeto não possui vínculo oficial com a Rockstar Games ou com a franquia Grand Theft Auto.
 
